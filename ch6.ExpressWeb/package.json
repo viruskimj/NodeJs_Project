@@ -1,0 +1,17 @@
+{
+  "name": "ch6.expressweb",
+  "version": "0.0.1",
+  "description": "익스프레스 웹 구현",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "VirusKim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

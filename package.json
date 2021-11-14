@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/viruskimj/NodeJs_Project/issues"
   },
-  "homepage": "https://github.com/viruskimj/NodeJs_Project#readme"
+  "homepage": "https://github.com/viruskimj/NodeJs_Project#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
 }
