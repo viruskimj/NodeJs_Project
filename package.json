@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_project",
+  "version": "1.0.0",
+  "description": "노드js 연습",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viruskimj/NodeJs_Project.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "VirusKim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viruskimj/NodeJs_Project/issues"
+  },
+  "homepage": "https://github.com/viruskimj/NodeJs_Project#readme"
+}
