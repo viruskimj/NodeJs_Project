@@ -17,7 +17,7 @@ const session = {};
 http.createServer(async (req, res) => {
   const cookies = parseCookies(req.headers.cookie);
   if (req.url.startsWith('/login')) {
-    console.log(req.url);
+    console.log(qs);
     const { query } = url.parse(req.url);
     const { name } = qs.parse(query);
     const expires = new Date();
